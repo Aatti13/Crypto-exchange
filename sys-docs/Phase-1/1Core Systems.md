@@ -35,3 +35,9 @@
   - Price Feeds Integrations
   - Historical Orders
 
+### To Do
+
+- Specific security patterns for the crypto components
+- Scalability patterns for the matching engine
+- Detailed microservices communication patterns
+- Data consistency patterns for the trading system
