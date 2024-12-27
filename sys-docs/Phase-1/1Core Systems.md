@@ -3,7 +3,6 @@
 ## Operation-1: Authentication Service
   - User Registration and Login (email/password)
   - Auth with Google & apple ID
-  - JWT Auth Token
   - Sessions Handling
   - MFA Implementation
   - Password Reset
